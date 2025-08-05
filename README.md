@@ -6,11 +6,6 @@ Purpose: Strengthen foundational coding and problem-solving skills required for 
 
 Status: Active – I’m continuously adding new solutions and folders as I learn more!
 
-📂 Structure
-Each folder is dedicated to a key DSA concept, featuring relevant problems, explanations, and code in C++ (or your primary language).
-
-Folder	Contents
-
 🛠️ Languages & Tools
 Language: C++ (majority)
 
