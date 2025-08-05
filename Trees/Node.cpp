@@ -21,5 +21,9 @@ int main(){
     Node* f= new Node(6);
     Node* g= new Node(7);
 
+    a->left=b;
+    a->right=c;
+    b->left=d;
+    b->right=e;
 
 }
