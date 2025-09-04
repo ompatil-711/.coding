@@ -16,7 +16,7 @@ public:
 
 int Levels(Node* root){
     if(root==NULL) return 0;
-    return 1+Levels(root->left) + Levels(root->right);
+    return 1+max(Levels(root->left) , Levels(root->right));
 }
 
 int main() {
