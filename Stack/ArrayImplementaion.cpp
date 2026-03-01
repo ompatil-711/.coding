@@ -23,4 +23,4 @@ int main(){
     cout << st.top();
     st.pop();
     st.top();
-}
+};
