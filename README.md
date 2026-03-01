@@ -22,7 +22,7 @@ Try the problems yourself!
 
 Contributions and suggestions are always welcome!
 
-📈 Updates
+📈 Updates:
 I add new solutions regularly as I learn, practice, and explore more advanced DSA concepts.
 
 Watch ⭐ this repo to get updates!
