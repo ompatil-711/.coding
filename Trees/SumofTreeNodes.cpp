@@ -6,7 +6,6 @@ public:
     int val;
     Node* right;
     Node* left;
-    // Constructor with proper parameter and initialization
     Node(int val) {
         this->val = val;
         this->right = NULL;
