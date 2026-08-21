@@ -8,6 +8,7 @@ int main(){
     s.insert(5);
     s.insert(3);
     for(int ele : s ){
+        
         cout << ele << endl;
     }
 }
